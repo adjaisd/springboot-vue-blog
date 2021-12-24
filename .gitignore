@@ -1,0 +1,5 @@
+/blog-api/target/
+/my-blog-app/dist/
+/.idea/
+/my-blog-app/node_modules/
+/my-blog-app/dist_electron/

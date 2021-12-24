@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "CORS_MAPPING",
+      "type": "java.lang.String",
+      "description": "Description for CORS_MAPPING."
+  }
+] }

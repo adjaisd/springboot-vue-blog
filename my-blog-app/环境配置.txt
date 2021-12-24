@@ -1,0 +1,17 @@
+yarn add vue-router@next --save
+yarn add vuex@next --save
+yarn add axios --save
+
+yarn add element-plus
+yarn add unplugin-vue-components
+
+vue add electron-builder
+
+---------------------
+windows解除端口占用命令
+netstat -ano | findstr "port"
+tasklist | findstr "pid"
+taskkill /pid "pid" -t -f
+
+
+---------------------
